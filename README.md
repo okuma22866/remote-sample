@@ -4,3 +4,5 @@
 git pullの利用
 
 statusの確認
+
+作成者: 山田太郎
